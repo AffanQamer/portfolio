@@ -17,38 +17,19 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
+                <a href="https://github.com/AffanQamer/nook_market.git" target="_blank" rel="noreferrer"><h2>Nook Market</h2></a>
+                <p>Responsive e-commerce web app with dynamic products, search/filtering, product details, cart management, and simulated checkout. Built with React, React Router, REST API, and LocalStorage, featuring a modern mobile-friendly UI with light/dark mode.
+</p>
 
                             </div>
 
-            <div className="project">
+            
 
-                            </div>
-
+            
             <div className="project">
-
-            </div>
-            <div className="project">
-               
-            </div>
-            <div className="project">
-                
-            </div>
-            <div className="project">
-               
-            </div>
-            <div className="project">
-                
-            </div>
-            <div className="project">
-               
-            </div>
-            <div className="project">
-                \
-            </div>
-            <div className="project">
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
-                <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
+                <a href="https://github.com/AffanQamer/FIREFIGHTER-RESCUE-ROUTE-PLANNER.git" target="_blank" rel="noreferrer"><h2>Firefighter Rescue Route Planner</h2></a>
+                <p>It is an interactive A* AI simulation where a firefighter finds and follows the safest/lowest-cost route to
+rescue a victim while dealing with fire, obstacles, and limited oxygen.</p>
             </div>
         </div>
     </div>

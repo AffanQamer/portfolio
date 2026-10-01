@@ -10,10 +10,8 @@ const labelsFirst = [
     "JavaScript",
     "HTML5",
     "CSS3",
-    "Flask",
     "Python",
     "SQL",
-    "PostgreSQL",
 ];
 
 const labelsSecond = [
